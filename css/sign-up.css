@@ -1,0 +1,9 @@
+#main-container {
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+#first-item {
+    width: 350px;
+}
