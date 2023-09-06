@@ -1,0 +1,23 @@
+#main-container {
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+#first-item {
+    width: 350px;
+}
+body{
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+#q-footer {
+    margin-top: auto;
+}
+#q-container {
+    margin-bottom: auto;
+    margin-top: 2% !important;
+}

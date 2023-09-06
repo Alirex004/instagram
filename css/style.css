@@ -1,0 +1,19 @@
+#form-div {
+    margin-top: 70px !important;
+}
+@media (min-width: 992px) {
+    #instagram-app-image-div {
+        padding-left: 70px;
+    }
+}
+body{
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+#q-footer {
+    margin-top: auto;
+}
+#q-container {
+    margin-top: auto;
+}
